@@ -1,0 +1,5 @@
+market_typology,Sample_Size,Mean_Price_USD,Median_Price_USD,Mean_Star_Rating,Mean_Review_Score,Pool_Prevalence_Pct,Spa_Prevalence_Pct,Breakfast_Bundled_Pct
+Emerging / Regional Market,727,65.96286107290234,35.0,2.0440165061898212,7.003448275862069,2.3%,97.8%,50.6%
+Leisure / Regional Hub,877,107.43785632839224,73.0,2.6408209806157354,8.509590643274853,11.3%,96.2%,23.1%
+Luxury / Resort,1394,240.88235294117646,188.0,2.588235294117647,8.343217197924389,7.8%,97.7%,14.8%
+Metropolitan / Business,1428,259.2457983193277,195.0,2.757703081232493,8.213101983002833,0.8%,97.1%,14.1%
